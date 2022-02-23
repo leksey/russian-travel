@@ -1,0 +1,7 @@
+.header__lang-selector {
+  margin: 0;
+}
+
+.header__lang-selector:nth-of-type(1) {
+  margin-right: 18px;
+}
