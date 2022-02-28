@@ -1,0 +1,19 @@
+.cover__text {
+  display: block;
+  margin: 32px 0 0 0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  position: relative;
+  text-align: center;
+}
+
+@media screen and (max-width: 320px) {
+  .cover__text {
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 16px;
+  }
+}
