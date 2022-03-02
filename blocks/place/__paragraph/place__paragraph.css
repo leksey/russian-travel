@@ -3,6 +3,7 @@
   margin-block-start: 0;
   margin-block-end: 0;
   margin: 0 0 26px;
+  padding: 0;
 }
 
 .place__paragraph:nth-of-type(2) {

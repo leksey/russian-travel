@@ -1,5 +1,6 @@
 .cover__text {
   display: block;
+  max-width: 360px;
   margin: 32px 0 0 0;
   font-family: Inter;
   font-style: normal;
@@ -8,6 +9,7 @@
   line-height: 22px;
   position: relative;
   text-align: center;
+  padding: 0;
 }
 
 @media screen and (max-width: 320px) {
@@ -15,5 +17,6 @@
     font-size: 14px;
     line-height: 16px;
     margin-top: 16px;
+    max-width: 288px;
   }
 }

@@ -1,5 +1,5 @@
 .gallery {
-  max-width: 100%;
+  width: 100%;
   display: grid;
   grid-template-columns: repeat( auto-fit, minmax(284px, 1fr) );
   gap: 16px;

@@ -9,6 +9,12 @@
   color: inherit;
   margin: 0 18px 0 0;
   padding: 0;
+  transition: opacity 1s linear;
+}
+
+
+.menu__link:hover {
+  opacity: .8;
 }
 
 @media screen and (max-width: 767px) {
