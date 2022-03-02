@@ -23,4 +23,4 @@
 Удачи!
 
 **github проекта**
-[Ссылка на оригинальный проект от yandex-praktikum] (https://github.com/yandex-praktikum/russian-travel)
+[Ссылка на оригинальный проект от yandex-praktikum](https://github.com/yandex-praktikum/russian-travel)
