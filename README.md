@@ -21,3 +21,6 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+**github проекта**
+[Ссылка на оригинальный проект от yandex-praktikum] (https://github.com/yandex-praktikum/russian-travel)
