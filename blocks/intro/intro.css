@@ -1,9 +1,11 @@
 .intro {
   max-width: 690px;
+  width: 100vw;
   justify-self: left;
   display: flex;
   flex-direction: column;
   padding-left: 148px;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {

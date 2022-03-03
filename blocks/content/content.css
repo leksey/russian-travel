@@ -4,6 +4,7 @@
   padding: 56px 0 92px;
   display: grid;
   justify-items: center;
+  justify-content: center;
   grid-row-gap: 92px;
 }
 
