@@ -1,6 +1,6 @@
 .lead-intro-wrapper {
   max-width: 984px;
-  width: 100vw;
+  width: 100%;
   display: grid;
   gap: 92px;
   flex-direction: column;
