@@ -12,3 +12,15 @@
     max-width: 928px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .lead-intro-wrapper {
+    grid-row-gap: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead-intro-wrapper {
+    grid-row-gap: 64px;
+  }
+}

@@ -1,6 +1,6 @@
-.menu__link {
+.footer__menu-link {
   display: block;
-  font-family: Inter;
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -13,12 +13,12 @@
 }
 
 
-.menu__link:hover {
+.footer__menu-link:hover {
   opacity: .8;
 }
 
 @media screen and (max-width: 767px) {
-  .menu__link {
+  .footer__menu-link {
     font-size: 24px;
     line-height: 24px;
     margin: 0 0 32px 0;
